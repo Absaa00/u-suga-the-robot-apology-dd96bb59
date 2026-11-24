@@ -1,0 +1,7 @@
+# The Robot Apology (r1) — local-only ignores
+__pycache__/
+*.py[cod]
+/output/
+*.log
+.DS_Store
+Thumbs.db
